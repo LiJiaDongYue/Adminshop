@@ -1,0 +1,63 @@
+#example {
+  text-align: center;
+}
+.demo-section {
+  display: inline-block;
+  vertical-align: top;
+  width: 220px;
+  text-align: left;
+  margin: 0 2em;
+}
+.f-l {
+  float: left;
+}
+.attr-val {
+  float: left;
+}
+#attr-form .table > tbody > tr > td {
+  vertical-align: middle;
+}
+#attr-form .bootstrap-tagsinput {
+  text-align: left;
+}
+.bootstrap-tagsinput {
+  width: 400px;
+}
+.attr-table-ptd {
+  padding: 0px !important;
+}
+.attr-table-ptd > .table {
+  margin-bottom: 0px;
+}
+.attr-table-ptd > .table > tbody > tr:first-child > th {
+  border-top: none;
+}
+.attr-table-ptd > .table > tbody > tr:last-child > td {
+  border-bottom: none;
+}
+.attr-table-ptd > .table > tbody > tr > th:first-child,
+.attr-table-ptd > .table > tbody > tr > td:first-child {
+  border-left: none;
+}
+.attr-table-ptd > .table > tbody > tr > th:last-child,
+.attr-table-ptd > .table > tbody > tr > td:last-child {
+  border-right: none;
+}
+.attr-table-ptd > .table-bordered {
+  border: none;
+}
+.vertical-m-i {
+  vertical-align: middle !important;
+}
+.table-ptd-0 {
+  padding: 0px !important;
+}
+.table-ptd-0 > table {
+  margin: 0;
+  border-style: none;
+}
+.selected-pic {
+  position: absolute;
+  right: 20px;
+  top: 4px;
+}

@@ -1,0 +1,60 @@
+footer.main {
+  background-color:@color-green-bg;
+  color:@color-white;
+  section.widgets {
+    /*font-size: 85%;*/
+    padding: 50px 0;
+  }
+  h4 {
+    color:@color-white;
+    font-size: @font-xxL;
+    margin-bottom: 35px;
+    text-transform: uppercase;
+  }
+  h5, a, p {
+    color: inherit;
+  }
+  a:hover {
+    color:@color-white;
+    text-decoration: none;
+  }
+  .footer-qlink ul {
+    list-style: outside none none;
+    margin: 0;
+    padding: 0;
+    >li {
+      border-top: 1px solid @color-silverGrey2;
+      padding: 5px 0;
+    }
+    >li:first-child {
+      border-top: 0 none;
+      padding-top: 0;
+    }
+  }
+  .footer-blog{
+    > ul > li {
+      margin-top: 25px;
+    }
+    img {
+      height: 64px;
+      width: 64px;
+    }
+    h5 {
+      font-size: inherit;
+      font-weight: bold;
+    }
+    p {
+      margin: 0;
+    }
+    .footer {
+      font-size: @font-m;
+      font-style: italic;
+      opacity: 0.6;
+    }
+  }
+  section.copyright {
+    background:@color-bunkerGrey;
+    font-size: 75%;
+    padding: 20px 0;
+  }
+}

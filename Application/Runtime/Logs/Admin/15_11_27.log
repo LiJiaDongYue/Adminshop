@@ -1,0 +1,15 @@
+[ 2015-11-27T14:43:20+08:00 ] 127.0.0.1 /Admin/Index/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010912s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004634s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005352s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp\www\adminshop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Use of undefined constant ROOT_PATH - assumed 'ROOT_PATH' D:\wamp\www\adminshop\Application\Admin\Common\function.php 第 243 行.
+NOTIC: [8] Use of undefined constant ROOT_PATH - assumed 'ROOT_PATH' D:\wamp\www\adminshop\Application\Admin\Controller\IndexController.class.php 第 53 行.
+NOTIC: [2] unlink(ROOT_PATHPublic/Uploads/Picture/1/2015-11/5657fb8877411.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory D:\wamp\www\adminshop\Application\Admin\Controller\IndexController.class.php 第 53 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002854s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003446s ]
+

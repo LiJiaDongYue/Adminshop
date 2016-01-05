@@ -1,0 +1,162 @@
+[ 2015-11-24T09:17:46+08:00 ] 127.0.0.1 /Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002423s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003668s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-11-24T09:17:53+08:00 ] 127.0.0.1 /Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002565s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002718s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-11-24T09:18:29+08:00 ] 127.0.0.1 /Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002884s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003145s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003581s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-11-24T09:23:22+08:00 ] 127.0.0.1 /Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002129s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002934s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003333s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-11-24T09:23:23+08:00 ] 127.0.0.1 /Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002522s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003229s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003711s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-11-24T09:23:30+08:00 ] 127.0.0.1 /Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003009s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002132s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002473s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-11-24T09:23:48+08:00 ] 127.0.0.1 /Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000129s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005275s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004301s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-11-24T09:24:31+08:00 ] 127.0.0.1 /Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002480s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002774s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003126s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-11-24T09:24:33+08:00 ] 127.0.0.1 /Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001865s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002658s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003018s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-11-24T09:24:35+08:00 ] 127.0.0.1 /Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002017s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003431s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003829s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-11-24T09:24:46+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001998s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003113s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003545s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-11-24T09:30:13+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004375s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004707s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005087s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-11-24T09:37:06+08:00 ] 127.0.0.1 /index.php/Admin/Common/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001660s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002500s ]
+ERR: 无法加载控制器:Common
+
+[ 2015-11-24T09:37:17+08:00 ] 127.0.0.1 /Admin/Common/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001848s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002458s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002829s ]
+ERR: 无法加载控制器:Common
+
+[ 2015-11-24T09:52:33+08:00 ] 127.0.0.1 /Admin/Common/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002550s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003761s ]
+ERR: 无法加载控制器:Common
+
+[ 2015-11-24T10:06:30+08:00 ] 127.0.0.1 /Admin/Common/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002172s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003009s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003546s ]
+ERR: 无法加载控制器:Common
+
+[ 2015-11-24T10:06:43+08:00 ] 127.0.0.1 /index.php/Admin/Common/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002559s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002985s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003439s ]
+ERR: 无法加载控制器:Common
+
+[ 2015-11-24T10:08:31+08:00 ] 127.0.0.1 /Admin/Common/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001678s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002611s ]
+ERR: 无法加载控制器:Common
+

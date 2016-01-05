@@ -1,0 +1,96 @@
+.header-wrapper {
+  border-bottom:1px solid @color-silverGrey2;
+  .logo-sm{width:60%;padding-top:10px;margin-left:15px}
+  .logo-normal{width:100%;/*padding-top:5px;*/}
+  >.navbar-white{
+    background:@color-white;
+    border:none;
+    font-size:@font-xxL;
+    .navbar-nav > li > a {
+      color:@color-bunkerGrey;
+    }
+    .navbar-nav > li > a:hover {
+      color:@color-green-highlight;
+    }
+    .navbar-nav > .active > a,
+    .navbar-nav > .active > a:hover,
+    .navbar-nav > .active > a:focus {
+      color:@color-green;
+      background:none;
+    }
+  }
+  .navbar-header-full{
+    padding-top:15px;
+    padding-bottom:15px;
+
+  }
+  >.navbar{
+    border-radius:0;
+    margin:0;
+  }
+  .navbar-brand{
+    padding:0;line-height: 45px;
+  }
+  .navbar-fm{
+    font-size:@font-m;
+  }
+  .loginUser-img{
+    position:absolute;
+    left:10px;
+    top:14px;
+    width:24px;
+    height:24px;
+  }
+  .loginUser-img-padding{
+    padding-left:45px
+  }
+  //用户中心
+  >.navbar-userCenter{
+    background:@color-green;
+    border:none;
+    font-size:@font-xL;
+    .navbar-nav > li > a {
+      color:@color-white;
+    }
+    .navbar-nav > li > a:hover {
+      color:@color-green-highlight;
+    }
+    .navbar-nav > .active > a,
+    .navbar-nav > .active > a:hover,
+    .navbar-nav > .active > a:focus {
+      color:@color-white;
+      background:@color-green-highlight;
+    }
+  }
+  .header-bar{
+    font-size:@font-m;
+    padding-top:5px;
+    padding-bottom:5px;
+  }
+  .navbar-userCenter-topbar{
+    min-height:28px;
+    .navbar-nav > li > a{
+      padding-bottom:3px;
+      padding-top:3px;
+      font-size:@font-m;
+    }
+  }
+}
+
+#loading{
+  width:100px;
+  background:#f0ad4e;
+  border:1px solid #a47e3c;
+  box-shadow:0 0 5px @color-bunkerGrey;
+  font-size:@font-m;
+  text-align:center;
+  color:@color-bunkerGrey;
+  padding:5px 0 6px 0;
+  z-index:99;
+  position:fixed;
+  top:0;
+  left:50%;
+  margin-left:-100px;
+  display:none;
+}
+

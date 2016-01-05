@@ -1,0 +1,26 @@
+[ 2015-12-01T17:03:16+08:00 ] 127.0.0.1 /Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.022324s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002695s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003029s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019417s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019779s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.015893s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016190s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000173s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000519s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035400s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.024112s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000080s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.043629s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006756s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007168s ]
+

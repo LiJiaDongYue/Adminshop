@@ -1,0 +1,34 @@
+@import 'public.css';
+.form-group {
+	height: 42px;
+}
+
+.header-wrapper {
+	border-bottom: 1px solid #e7e7e7
+}
+.header-wrapper>.navbar-white {
+	background: #fff;
+	border: none;
+}
+.header-wrapper>.navbar-white .navbar-nav>li>span,.header-wrapper>.navbar-white .navbar-nav>li>a {
+	line-height: 30px;
+	padding: 0px 10px;
+	color: #555;
+}
+.header-wrapper>.navbar-white .navbar-nav>li>a:hover {
+	color: #e4393c;
+}
+.header-wrapper>.navbar {
+	border-radius: 0;
+	margin: 0;
+	font-size: 12px;
+	min-height: 30px;
+}
+
+.register-tip {
+    background: none repeat scroll 0 0 #f7f7f7;
+    border: 1px solid #dddddd;
+    color: #666;
+    line-height: 32px;
+    max-width: 75%;
+}

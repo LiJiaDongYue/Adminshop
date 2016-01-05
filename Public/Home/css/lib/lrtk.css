@@ -1,0 +1,23 @@
+/* CSS Document */
+body,h1,h2,h3,h4,h5,h6,p,ul,ol,li,form,img,dl,dt,dd,table,th,td,blockquote,fieldset,div,strong,label,em{margin:0;padding:0;border:0}
+ul,ol,li{list-style:none}
+input,button{margin:0;font-size:12px;vertical-align:middle}
+/*body{ font-size: 12px; font-family: Arial, Helvetica, sans-serif; text-align: center; margin: 0 auto; background-color: #E3E3E3; }*/
+table{border-collapse:collapse;border-spacing:0}
+a{color:#333;text-decoration:none}
+a:hover{color:#ef9b11;text-decoration:underline}
+
+.box{width:620px;margin:20px auto}
+.left-pro{text-align: left; background-color: #FFF;}
+.left-pro .t1{width:472px;}
+.left-pro .t2{width:472px;text-indent:0;}
+.left-pro .t2 img{text-indent:0;border: 1px solid #ddd;}
+#showArea img{cursor:pointer;display:block;border: 1px solid #ddd;padding:1px;margin: 6px 12px;width:116px;height:116px;float:left}
+#main_img{cursor:pointer;display:block}
+#gotop{cursor:pointer;display:block;float:left;line-height: 130px;color:#f7f7f9;}
+#gotop:hover {color:#999999;}
+#gobottom{cursor:pointer;display:block;margin-left:9px;float:left;line-height: 130px;color:#f7f7f9;}
+#gobottom:hover {color:#999999;}
+.show-thumb {width:420px;height:130px;overflow:hidden;position: relative;float:left;}
+#showArea{height:130px;position: absolute;overflow-y: hidden;width: 2000px;}
+.img-hover {border: 2px solid #e4393c !important;padding:0 !important;}

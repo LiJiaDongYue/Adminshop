@@ -1,0 +1,1 @@
+<?php if (!defined('THINK_PATH')) exit();?>获取本地IP失败！

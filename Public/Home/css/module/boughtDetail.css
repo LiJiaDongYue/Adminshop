@@ -1,0 +1,360 @@
+.boilyun-bought-detail {
+  width: 100%;
+  height: auto;
+}
+.boilyun-bought-detail .good-display {
+  height: 600px;
+  width: 100%;
+}
+.boilyun-bought-detail .good-display .img-display {
+  width: 470px;
+  height: 600px;
+  float: left;
+  box-sizing: border-box;
+}
+.boilyun-bought-detail .good-display .img-display > img {
+  border: 1px solid #ddd;
+  float: left;
+}
+.boilyun-bought-detail .good-display .img-display > .scroll-img {
+  box-sizing: border-box;
+  float: left;
+  height: 130px;
+  width: 470px;
+  padding-left: 20px;
+  position: relative;
+}
+.boilyun-bought-detail .good-display .img-display > .scroll-img .icon-left {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  margin-top: -6px;
+}
+.boilyun-bought-detail .good-display .img-display > .scroll-img .icon-right {
+  position: absolute;
+  right: 0;
+  top: 50%;
+  margin-top: -6px;
+}
+.boilyun-bought-detail .good-display .img-display > .scroll-img > a {
+  color: #ddd;
+  display: inline-block;
+  font-size: 25px;
+}
+.boilyun-bought-detail .good-display .img-display > .scroll-img > img {
+  float: left;
+  border: 1px solid #ddd;
+  margin: 6px 12px;
+}
+.boilyun-bought-detail .good-display > .introduce {
+  height: 600px;
+  width: 457px;
+  float: left;
+  position: relative;
+}
+.boilyun-bought-detail .good-display > .introduce > span {
+  color: #646464;
+}
+.boilyun-bought-detail .good-display > .introduce > .top > .left {
+  padding: 15px 0;
+  box-sizing: border-box;
+  width: 80%;
+  float: left;
+  border-right: 1px solid #ddd;
+}
+.boilyun-bought-detail .good-display > .introduce > .top > .left span {
+  display: inline-block;
+}
+.boilyun-bought-detail .good-display > .introduce > .top > .right {
+  box-sizing: border-box;
+  float: left;
+}
+.boilyun-bought-detail .good-display > .introduce > .middle {
+  padding: 10px 0;
+  box-sizing: border-box;
+}
+.boilyun-bought-detail .good-display > .introduce > .style-choice img {
+  display: none;
+}
+.boilyun-bought-detail .good-display > .introduce > .style-choice .tm-clear::after {
+  clear: both;
+  content: " ";
+  display: block;
+  height: 0;
+}
+.boilyun-bought-detail .good-display > .introduce > .style-choice .tb-prop li a {
+  float: left;
+  min-width: 10px;
+  padding: 0 9px;
+  text-align: center;
+  text-decoration: none;
+  white-space: nowrap;
+  width: auto !important;
+}
+.boilyun-bought-detail .good-display > .introduce > .style-choice .tb-selected > img {
+  position: absolute;
+  display: block;
+  bottom: 0;
+  right: 0;
+}
+.boilyun-bought-detail .good-display > .introduce > .style-choice .tm-sale-prop li {
+  border: 1px solid #ddd;
+  list-style: none;
+  line-height: 28px;
+  float: left;
+  margin: 0 4px 4px 0;
+  padding: 1px;
+  position: relative;
+  vertical-align: middle;
+}
+.boilyun-bought-detail .good-display > .introduce > .style-choice .tb-selected {
+  border: none !important;
+}
+.boilyun-bought-detail .good-display > .introduce > .style-choice .tb-selected > a {
+  border: 2px solid #be0106;
+  margin: -1px;
+}
+.boilyun-bought-detail .good-display > .introduce > .style-choice .tb-prop {
+  padding-bottom: 6px;
+}
+.boilyun-bought-detail .good-display > .introduce > .style-choice .tb-prop .tb-metatit {
+  float: left;
+  text-align: left;
+  width: 66px;
+  line-height: 31px;
+}
+.boilyun-bought-detail .good-display > .introduce > .style-choice .tb-prop .tb-attr {
+  float: left;
+  width: 390px;
+}
+.boilyun-bought-detail .good-display > .introduce > .bottom {
+  position: absolute;
+  bottom: 0;
+}
+.boilyun-bought-detail .good-display > .detail {
+  box-sizing: border-box;
+  height: 470px;
+  width: 250px;
+  background: #f9f9f9;
+  float: left;
+  padding: 10px 20px;
+}
+.boilyun-bought-detail .good-display > .detail > span {
+  display: inline-block;
+  margin-top: 5px;
+}
+.boilyun-bought-detail .item-bottom {
+  width: 100%;
+  box-sizing: border-box;
+  padding-left: 570px;
+}
+.boilyun-bought-detail .item-bottom .commit {
+  width: 125px;
+  height: 48px;
+  background: #e74c3c;
+  display: inline-block;
+  text-align: center;
+  line-height: 48px;
+  color: #fff;
+}
+.boilyun-bought-detail .item-bottom .print {
+  background: #34495e;
+}
+.boilyun-bought-detail .continue span {
+  display: block;
+  margin-bottom: 150px;
+}
+.boilyun-bought-detail .main {
+  width: 100%;
+  height: 300px;
+  border: 1px solid #ddd;
+}
+.boilyun-bought-detail .main > .title {
+  width: 100%;
+  height: 40px;
+  background: #f7f7f7;
+  border-bottom: 1px solid #ddd;
+  padding: 0;
+  margin: 0;
+}
+.boilyun-bought-detail .main > .title > li {
+  list-style: none;
+  position: relative;
+  display: block;
+  width: 90px;
+  height: 41px;
+  line-height: 40px;
+  text-align: center;
+  float: left;
+  border-right: 1px solid #ddd;
+  border-left: 1px solid #ddd;
+  margin-left: -1px;
+}
+.boilyun-bought-detail .main > .title > li.active {
+  background: #fff;
+}
+.boilyun-bought-detail .main > .title > li.active > a {
+  color: #E74C3C !important;
+}
+.boilyun-bought-detail .main .self-define {
+  padding-left: 10px;
+  box-sizing: border-box;
+}
+.boilyun-bought-detail .main .self-define > li {
+  padding: 0 10px !important;
+  border-right: 1px solid #aaa;
+}
+.boilyun-bought-detail .main .self-define > li > a {
+  font-size: 12px;
+  color: #2271b2;
+}
+.boilyun-bought-detail .main .self-define > li .active {
+  color: #E74C3C;
+}
+.boilyun-bought-detail .main .set {
+  height: auto;
+  width: 100%;
+}
+.boilyun-bought-detail .main .set .set-head {
+  width: 100px;
+  height: 210px;
+  float: left;
+  box-sizing: border-box;
+  text-align: center;
+  padding-top: 30px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.boilyun-bought-detail .main .set .scroll-div {
+  overflow-x: auto;
+  height: 180px;
+  width: 850px;
+  float: left;
+}
+.boilyun-bought-detail .main .set .scroll-div > ul {
+  height: 100%;
+  padding-top: 30px;
+  margin: 0;
+  box-sizing: border-box;
+}
+.boilyun-bought-detail .main .set .scroll-div > ul > li {
+  box-sizing: border-box;
+  margin: 0 15px;
+  list-style: none;
+  display: inline-block;
+}
+.boilyun-bought-detail .main .set .scroll-div > ul > li i {
+  display: inline-block;
+  height: 25px;
+  width: 20px;
+  color: #ddd;
+  font-size: 25px;
+  vertical-align: middle;
+}
+.boilyun-bought-detail .main .set .sum {
+  width: 130px;
+  height: 180px;
+  box-sizing: border-box;
+  float: left;
+  padding-top: 30px;
+  position: relative;
+  padding-left: 35px;
+  margin-left: 40px;
+}
+.boilyun-bought-detail .main .set .sum span {
+  font-size: 12px;
+}
+.boilyun-bought-detail .main .set .sum .equal {
+  width: 30px;
+  height: 30px;
+  font-size: 30px;
+  line-height: 30px;
+  position: absolute;
+  display: inline-block;
+  top: 50%;
+  margin-top: -30px;
+  left: 0;
+  text-align: center;
+  font-weight: 900;
+  color: #ddd;
+}
+.boilyun-bought-detail .main .set .sum a {
+  background: #e74c3c;
+  font-size: 12px;
+  color: #fff;
+  text-align: center;
+  margin-top: 15px;
+}
+.boilyun-bought-detail .good-evaluate {
+  height: auto;
+  width: 100%;
+}
+.boilyun-bought-detail .good-evaluate > .left {
+  width: 230px;
+  height: auto;
+  float: left;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+}
+.boilyun-bought-detail .good-evaluate > .left .hot-erea {
+  box-sizing: border-box;
+  height: 38px;
+  width: 100%;
+  background: #ececec;
+  padding-left: 15px;
+}
+.boilyun-bought-detail .good-evaluate > .left .hot-erea span {
+  height: 38px;
+  line-height: 36px;
+}
+.boilyun-bought-detail .good-evaluate > .left .hot-detail {
+  height: auto;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+.boilyun-bought-detail .good-evaluate > .left .hot-detail > li {
+  vertical-align: middle;
+  list-style: none;
+  display: inline-block;
+  padding: 0 20px;
+  margin-top: 20px;
+}
+.boilyun-bought-detail .good-evaluate > .right {
+  width: 993px;
+  height: auto;
+  float: left;
+  border: 1px solid #ddd;
+}
+.boilyun-bought-detail .good-evaluate > .right > .title {
+  width: 100%;
+  height: 40px;
+  background: #f7f7f7;
+  border-bottom: 1px solid #ddd;
+  padding: 0;
+  margin: 0;
+}
+.boilyun-bought-detail .good-evaluate > .right > .title > li {
+  list-style: none;
+  position: relative;
+  display: block;
+  width: 90px;
+  height: 41px;
+  line-height: 40px;
+  text-align: center;
+  float: left;
+  border-right: 1px solid #ddd;
+  border-left: 1px solid #ddd;
+  margin-left: -1px;
+}
+.boilyun-bought-detail .good-evaluate > .right > .title > li.active {
+  background: #fff;
+}
+.boilyun-bought-detail .good-evaluate > .right > .title > li.active > a {
+  color: #E74C3C !important;
+}
+.boilyun-bought-detail .good-evaluate > .right .introduction {
+  box-sizing: border-box;
+  padding: 20px 25px;
+  line-height: 1.5em;
+}

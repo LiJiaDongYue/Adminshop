@@ -1,0 +1,421 @@
+.boilyun-content .boilyun-img {
+  width: 100%;
+  margin-bottom: 25px;
+  margin-top: 30px;
+}
+.boilyun-content .boilyun-img .left-img {
+  height: 400px;
+  width: 70%;
+  background: white;
+}
+.boilyun-content .boilyun-img .right-content {
+  height: 200px;
+  display: inline-block;
+  margin-top: 10px;
+  margin-left: 20px;
+  border-bottom: 1px solid #e6e6e6;
+}
+.boilyun-content .boilyun-img .right-content .font-style {
+  width: 175px;
+  height: 145px;
+  margin-top: 15px;
+  margin-left: 20px;
+}
+.boilyun-content .boilyun-img .right-content .font-style span {
+  font-size: 12px;
+}
+.boilyun-content .boilyun-img .right-content .font-style a {
+  color: #205893;
+  font-size: 15px;
+}
+.boilyun-safe-warring {
+  position: relative;
+  height: 113px;
+  background: #F4F4F4;
+  margin-bottom: 45px;
+  overflow: hidden;
+  /*.bg-warring{
+    height: 113px;
+    width: 65px;
+    background: #E39B11;
+    position: relative;
+	text-align:center;
+    >.word-col{
+      position: relative;
+      width: 20px;
+      height: 80px;
+      font-weight: 700;
+      left: 26px;
+      top:15px;
+      color: #fff;
+    }
+    >img{
+      position: absolute;
+      top: 50px;
+      left: 63px;
+    }
+  }*/
+  /*> .warring-icon{
+	position:absolute;
+	float:right;
+	width:35px;
+	height:115px;
+	right:20px;
+	top:20px;
+	.icon-up{
+	  position:relative;
+	  margin-bottom:5px;
+	  span{
+		position:absolute;
+		top:4px;
+		left:8px;
+	  }
+	}
+	.icon-down{
+	  position:relative;
+	  span{
+		position:absolute;
+		top:4px;
+		left:8px;
+	  }
+	}
+  }*/
+}
+.boilyun-safe-warring > .title {
+  height: 100px;
+  width: 65px;
+  background: #E39B11;
+  float: left;
+  text-align: center;
+  color: #fff;
+  font-weight: 700;
+  padding: 13px 0 0;
+  position: relative;
+}
+.boilyun-safe-warring > .title > i {
+  position: absolute;
+  display: block;
+  height: 20px;
+  width: 20px;
+  top: 50%;
+  right: -15px;
+  margin-top: -10px;
+  background: url("../img/trangle.png");
+}
+.boilyun-safe-warring > #scrollDiv {
+  float: left;
+  margin: 14px 0;
+  height: 85px;
+  overflow: hidden;
+}
+.boilyun-safe-warring > #scrollDiv > ul {
+  padding: 0 0 0 0;
+  width: 995px;
+  float: left;
+  margin: 0 0 0 20px;
+}
+.boilyun-safe-warring > #scrollDiv > ul > li {
+  width: 128px;
+  height: 85px;
+  list-style: none;
+  display: block;
+  float: left;
+  text-align: left;
+  border-right: 1px solid #ddd;
+  padding: 0 35px;
+}
+.boilyun-safe-warring > #scrollDiv > ul > li span {
+  font-size: 12px;
+}
+.boilyun-safe-warring > #scrollDiv > ul > li .font-red {
+  color: red;
+}
+.boilyun-safe-warring > .ctrl-bar {
+  float: right;
+  width: 35px;
+  text-align: center;
+  padding: 17px 15px 6px 10px;
+}
+.boilyun-safe-warring > .ctrl-bar > a {
+  display: block;
+  width: 33px;
+  height: 28px;
+  padding: 7px 0 0 2px;
+  background: #E0E0E0;
+  border-radius: 100px;
+  margin-bottom: 10px;
+}
+.boilyun-safe-warring > .ctrl-bar > a:hover {
+  background: #E39B11;
+}
+.boilyun-safe-warring > .ctrl-bar > a > .arrow-up,
+.boilyun-safe-warring > .ctrl-bar > a .arrow-down {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  background: url("../img/white-up.png");
+}
+.boilyun-safe-warring > .ctrl-bar > a > .arrow-down {
+  background: url("../img/white-down.png");
+}
+.boilyun-feature .boilyun-feature-command {
+  height: 25px;
+  background: #F4F4F4;
+  padding: 10px;
+}
+.boilyun-feature .boilyun-feature-command .bold {
+  font-weight: 700;
+  color: #205893;
+}
+.boilyun-feature ul {
+  height: 350px;
+  width: auto;
+  margin: 0;
+  padding: 0;
+}
+.boilyun-feature ul > li {
+  width: 170px;
+  height: 307px;
+  vertical-align: middle;
+  list-style: none;
+  display: inline-block;
+  text-align: left;
+  border-left: 1px solid #e6e6e6;
+  border-top: 1px solid white;
+  border-bottom: 1px solid white;
+  border-right: 1px solid white;
+  padding: 0 35px;
+  margin-top: 20px;
+}
+.boilyun-feature ul > li .font-red {
+  color: red;
+}
+.boilyun-feature ul > li:hover {
+  border: 1px solid red !important;
+}
+.boilyun-hot {
+  height: 340px;
+}
+.boilyun-hot .boilyun-hot-command {
+  height: 25px;
+  background: #F4F4F4;
+  padding: 10px;
+  width: 58%;
+}
+.boilyun-hot .boilyun-hot-command .bold {
+  font-weight: 700;
+}
+.boilyun-hot .boilyun-hot-command .font-blue {
+  color: #205893;
+}
+.boilyun-hot > ul {
+  height: 285px;
+  box-sizing: border-box;
+  float: left;
+  padding: 0;
+  margin: 0;
+  width: 60%;
+  margin-top: 10px;
+}
+.boilyun-hot > ul > li {
+  width: 170px;
+  float: left;
+  list-style: none;
+  text-align: left;
+  padding: 0 35px 10px;
+  border: 1px solid white;
+}
+.boilyun-hot > ul > li:hover {
+  border: 1px solid red;
+}
+.boilyun-hot > ul > li .font-red {
+  color: red;
+}
+.boilyun-hot > ul > li img {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.boilyun-hot .hot-right {
+  float: right;
+  width: 40%;
+  margin-top: -45px;
+}
+.boilyun-hot .hot-right .left {
+  width: 230px;
+  height: 320px;
+  background: #F4F4F4;
+  margin-right: 18px;
+  margin-left: 14px;
+}
+.boilyun-hot .hot-right .right {
+  width: 230px;
+  height: 320px;
+  background: #F4F4F4;
+}
+.boilyun-floor > ul {
+  height: 450px;
+  box-sizing: border-box;
+  float: left;
+  padding: 0;
+  margin: 0;
+  width: 60%;
+  margin-top: 10px;
+}
+.boilyun-floor > ul > li {
+  width: 140px;
+  float: left;
+  list-style: none;
+  text-align: left;
+  padding: 0 22px 10px;
+  border: 1px solid white;
+}
+.boilyun-floor > ul > li:hover {
+  border: 1px solid red;
+}
+.boilyun-floor > ul > li .font-red {
+  color: red;
+}
+.boilyun-floor > ul > li img {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 5px;
+}
+.boilyun-floor .floor-right {
+  float: right;
+  width: 40%;
+  margin-top: -45px;
+}
+.boilyun-floor .floor-right .left {
+  width: 230px;
+  height: 350px;
+  margin-right: 18px;
+  margin-left: 14px;
+}
+.boilyun-floor .floor-right .right {
+  width: 230px;
+  height: 350px;
+}
+.inverse-right ul {
+  float: right !important;
+}
+.inverse-right .hot-right {
+  box-sizing: border-box;
+  float: left;
+  margin-left: -15px;
+}
+.inverse-right .boilyun-hot-command {
+  float: right;
+}
+.inverse-right .floor-right {
+  box-sizing: border-box;
+  float: left;
+  margin-left: -15px;
+}
+.boilyun-more-equip {
+  margin-bottom: 30px;
+}
+.boilyun-more-equip .more-equip {
+  box-sizing: border-box;
+  height: 155px;
+  width: 290px;
+  background: #FFE424;
+  padding: 15px;
+}
+.boilyun-more-equip .more-equip span {
+  color: #205893;
+}
+.boilyun-more-equip .more-equip .more {
+  padding: 0 20px;
+  line-height: 25px;
+}
+.boilyun-more-equip .more-equip .more a {
+  font-size: 12px;
+  margin-right: 20px;
+}
+.boilyun-more-equip .appliances {
+  height: 155px;
+  width: 930px;
+  background: #f5f3e7;
+  float: right;
+  margin-top: -155px;
+}
+.boilyun-company {
+  height: 250px;
+  box-sizing: border-box;
+}
+.boilyun-company .news {
+  float: left;
+  display: inline-block;
+  width: 40%;
+  height: 250px;
+}
+.boilyun-company .news .notice {
+  margin-top: 15px;
+  width: 96%;
+  overflow: hidden;
+}
+.boilyun-company .news .notice .news-font {
+  float: left;
+  height: 30px;
+  line-height: 30px;
+  margin-left: 10px;
+}
+.boilyun-company .news .notice .date {
+  float: left;
+  box-sizing: border-box;
+  text-align: center;
+  vertical-align: middle;
+  height: 30px;
+  line-height: 30px;
+  width: 55px;
+  background: #F4F4F4;
+  color: #888;
+}
+.boilyun-company .contact-us {
+  display: inline-block;
+  float: left;
+  width: 40%;
+  height: 250px;
+  line-height: 36px;
+}
+.boilyun-company .weixin {
+  display: inline-block;
+  float: right;
+  width: 20%;
+  height: 250px;
+}
+.boilyun-company .weixin span {
+  margin-left: 30px;
+}
+.boilyun-company .weixin img {
+  margin-top: 20px;
+  margin-left: 30px;
+}
+.boilyun-floor-title {
+  height: 30px;
+  line-height: 24px;
+  border-bottom: 1px solid #205893;
+}
+.floor .hot-right {
+  margin-top: 0;
+}
+.floor .floor-right {
+  margin-top: 0;
+}
+.boilyun-full-ad {
+  margin: 20px 0;
+}
+.boilyun-full-ad .appliances {
+  height: 155px;
+  width: 930px;
+  background: #f5f3e7;
+  float: right;
+  margin-top: -155px;
+}
+.title-info {
+  line-height: 19px;
+  height: 38px;
+  display: inline-block;
+  overflow: hidden;
+}

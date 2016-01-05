@@ -1,0 +1,16 @@
+[ 2015-12-29T17:18:26+08:00 ] 127.0.0.1 /Admin/Public/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003961s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006024s ]
+NOTIC: [2048] Declaration of Admin\Controller\PublicController::error() should be compatible with that of Think\Controller::error() D:\wamp\www\adminshop\Application\Admin\Controller\PublicController.class.php 第 69 行.
+SQL: SHOW COLUMNS FROM `a_member` [ RunTime:0.0187s ]
+SQL: SELECT * FROM `a_member` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0215s ]
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' D:\wamp\www\adminshop\Application\Admin\Model\MemberModel.class.php 第 26 行.
+SQL: SHOW COLUMNS FROM `a_member_data` [ RunTime:0.2749s ]
+SQL: UPDATE `a_member_data` SET `last_login_time`='2015-12-29 17:18:26',`last_login_ip`='127.0.0.1' WHERE `uid` = 1 [ RunTime:0.2384s ]
+NOTIC: [8] Undefined index: user_type D:\wamp\www\adminshop\Application\Admin\Model\MemberModel.class.php 第 40 行.
+NOTIC: [8] Undefined index: 1 D:\wamp\www\adminshop\Application\Admin\Common\function.php 第 25 行.
+
+[ 2015-12-29T17:18:27+08:00 ] 127.0.0.1 /Admin/Index/index_v1.html?v=4.0
+ERR: 非法操作:index_v1
+

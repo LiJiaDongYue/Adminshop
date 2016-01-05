@@ -1,0 +1,40 @@
+*{
+    font-family:"Microsoft YaHei" , Arial, sans-serif;
+}
+.login-header {
+    margin: 0 auto;
+    padding: 0;
+    width: 990px;
+}
+
+#login-logo {
+    float: none;
+    margin: 0;
+    padding: 10px 0;
+    position: relative;
+}
+
+#login-logo b {
+    height: 46px;
+    left: 180px;
+    position: absolute;
+    top: 26px;
+    width: 120px;
+    font-family: "Times New Roman", Georgia, Serif;
+    font-size: 26px;
+}footer .footer-section{
+     padding: 50px 0;
+ }
+
+footer.footer-main section .copyright {
+    margin: 10px 0;
+}
+footer.footer-main section .links a {
+    color: #333;
+    margin: 0 10px;
+}
+footer.footer-main section .links a:hover,
+footer.footer-main section .links a:active {
+    color: #f00;
+    text-decoration: underline;
+}

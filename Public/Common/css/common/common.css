@@ -1,0 +1,512 @@
+/*******************
+全局颜色
+*******************/
+/*******************
+全局字号
+*******************/
+/*******************
+全局字体颜色
+*******************/
+.font-green {
+  color: #709136 !important;
+}
+.font-grey {
+  color: #8b8b8b !important;
+}
+.font-red {
+  color: #e74c3c !important;
+}
+.font-blue {
+  color: #5c9bd1 !important;
+}
+/*******************
+全局字体大小
+*******************/
+.font-xxxL {
+  font-size: 24px !important;
+}
+.font-xxL {
+  font-size: 18px !important;
+}
+.font-xL {
+  font-size: 16px !important;
+}
+.font-L {
+  font-size: 14px !important;
+}
+.font-m {
+  font-size: 12px !important;
+}
+.font-s {
+  font-size: 10px !important;
+}
+/*******************
+全局样式
+*******************/
+* {
+  font-family: "Microsoft YaHei", Arial, sans-serif;
+}
+body {
+  color: #3b3f42;
+  background-image: url("/Public/Common/images/loading.gif") no-repeat -9999px -9999px;
+}
+p,
+small,
+.unimportant {
+  color: #8b8b8b;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #3b3f42;
+}
+.pos-r {
+  position: relative;
+}
+.pos-a {
+  position: absolute;
+}
+.remind {
+  position: relative;
+}
+.remind:after {
+  content: "\2022";
+  font-size: 24px;
+  color: #e74c3c;
+  line-height: 8px;
+  position: absolute;
+  top: 2px;
+  right: 8px;
+}
+/*******************
+全局块级域 Margin
+*******************/
+.m-0 {
+  margin: 0px !important;
+}
+.mt-0 {
+  margin-top: 0px !important;
+}
+.mt-5 {
+  margin-top: 5px !important;
+}
+.mt-10 {
+  margin-top: 10px !important;
+}
+.mt-15 {
+  margin-top: 15px !important;
+}
+.mt-20 {
+  margin-top: 20px !important;
+}
+.mt-30 {
+  margin-top: 30px !important;
+}
+.mt-50 {
+  margin-top: 50px !important;
+}
+.mr-0 {
+  margin-right: 0px !important;
+}
+.mr-5 {
+  margin-right: 5px !important;
+}
+.mr-10 {
+  margin-right: 10px !important;
+}
+.mr-15 {
+  margin-right: 15px !important;
+}
+.mr-20 {
+  margin-right: 20px !important;
+}
+.mr-30 {
+  margin-right: 30px !important;
+}
+.mr-50 {
+  margin-right: 50px !important;
+}
+.mr-65 {
+  margin-right: 65px !important;
+}
+.mr-100 {
+  margin-right: 100px !important;
+}
+.mb-0 {
+  margin-bottom: 0 !important;
+}
+.mb-5 {
+  margin-bottom: 5px !important;
+}
+.mb-10 {
+  margin-bottom: 10px !important;
+}
+.mb-15 {
+  margin-bottom: 15px !important;
+}
+.mb-20 {
+  margin-bottom: 20px !important;
+}
+.mb-50 {
+  margin-bottom: 50px !important;
+}
+.mt-100 {
+  margin-top: 100px !important;
+}
+.ml-0 {
+  margin-left: 0px !important;
+}
+.ml-5 {
+  margin-left: 5px !important;
+}
+.ml-10 {
+  margin-left: 10px !important;
+}
+.ml-15 {
+  margin-left: 15px !important;
+}
+.ml-20 {
+  margin-left: 20px !important;
+}
+.ml-30 {
+  margin-left: 30px !important;
+}
+.ml-50 {
+  margin-left: 50px !important;
+}
+.ml-100 {
+  margin-left: 100px !important;
+}
+/*******************
+全局块级域 padding
+*******************/
+.p-0 {
+  padding: 0px !important;
+}
+/* padding-left */
+.pl-0 {
+  padding-left: 0 !important;
+}
+.pl-5 {
+  padding-left: 5px !important;
+}
+.pl-10 {
+  padding-left: 10px !important;
+}
+.pl-15 {
+  padding-left: 15px !important;
+}
+.pl-20 {
+  padding-left: 20px !important;
+}
+/* padding-right */
+.pr-0 {
+  padding-right: 0 !important;
+}
+.pr-5 {
+  padding-right: 5px !important;
+}
+.pr-10 {
+  padding-right: 10px !important;
+}
+.pr-15 {
+  padding-right: 15px !important;
+}
+.pr-20 {
+  padding-right: 20px !important;
+}
+/* padding-bottom */
+.pb-0 {
+  padding-bottom: 0 !important;
+}
+.pb-5 {
+  padding-bottom: 5px !important;
+}
+.pb-10 {
+  padding-bottom: 10px !important;
+}
+.pb-15 {
+  padding-bottom: 15px !important;
+}
+.pb-20 {
+  padding-bottom: 20px !important;
+}
+.pb-50 {
+  padding-bottom: 50px !important;
+}
+.pb-100 {
+  padding-bottom: 100px !important;
+}
+/* padding-top */
+.pt-0 {
+  padding-top: 0 !important;
+}
+.pt-5 {
+  padding-top: 5px !important;
+}
+.pt-10 {
+  padding-top: 10px !important;
+}
+.pt-15 {
+  padding-top: 15px !important;
+}
+.pt-20 {
+  padding-top: 20px !important;
+}
+label {
+  margin-bottom: 0px;
+  vertical-align: middle;
+  display: inline;
+}
+label span {
+  vertical-align: top;
+}
+.fw-normal {
+  font-weight: normal;
+}
+.vertical-m {
+  vertical-align: middle;
+}
+.vertical-t {
+  vertical-align: top;
+}
+.error {
+  color: #a94442;
+  margin-left: 5px;
+}
+.form-control-override {
+  width: auto;
+  display: inline;
+}
+.bt-none {
+  border-top: none !important;
+}
+.bb-none {
+  border-bottom: none !important;
+}
+.min-h-400 {
+  min-height: 400px;
+}
+.min-w-180 {
+  min-width: 180px;
+}
+.min-w-200 {
+  min-width: 200px;
+}
+.min-w-220 {
+  min-width: 220px;
+}
+.line-h-34 {
+  line-height: 34px;
+}
+.upload-div {
+  display: inline-block;
+}
+.btn-file {
+  overflow: hidden;
+  position: relative;
+}
+.upload-label {
+  line-height: 34px;
+  padding: 5px;
+  cursor: pointer;
+}
+.upload-input {
+  cursor: pointer;
+  direction: ltr;
+  font-size: 23px;
+  height: 100%;
+  margin: 0;
+  opacity: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 100%;
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+  filter: alpha(opacity=0);
+}
+.rmb {
+  color: #f40;
+  font-family: verdana, arial;
+}
+.underline:hover,
+.underline:focus {
+  text-decoration: none;
+}
+/********modal居中***********/
+.modal_wrapper {
+  display: table;
+  height: 100%;
+  margin: 0px auto;
+}
+.modal-dialog {
+  display: table-cell;
+  vertical-align: middle;
+}
+/********modal居中End**********/
+.pointer {
+  cursor: pointer;
+}
+/*******************
+对bootstrap的修改
+*******************/
+.no-radius {
+  border-radius: 0!important;
+}
+.well-green {
+  background: #83bc5f;
+  border: none;
+  color: #ffffff;
+}
+.well-green h4 {
+  color: #ffffff;
+}
+.well-bunkerGrey {
+  background: #707070;
+  border: none;
+  color: #ffffff;
+}
+.well-bunkerGrey h4 {
+  color: #ffffff;
+}
+.well-silverGrey {
+  border: none;
+}
+.table-nothead {
+  margin: 10px 0 0 0;
+}
+.table-nothead tr:first-child > td {
+  border: none;
+}
+.btn-success {
+  background-color: #709136;
+  border: none;
+}
+.btn-success:hover,
+.btn-success:focus,
+.btn-success:active,
+.btn-success.active,
+.open > .dropdown-toggle.btn-success {
+  background-color: #a2c852;
+}
+.panel-main {
+  border-color: #e7e7e7;
+}
+.panel-main > .panel-heading {
+  background-color: #ffffff;
+  border-color: #e7e7e7;
+  border-bottom-width: 2px;
+}
+.panel-main > .panel-heading .btn {
+  margin-top: 4px;
+}
+.panel-main > .panel-heading > small {
+  margin-top: 3px;
+}
+.panel-main > .panel-search {
+  padding: 15px 15px 0px;
+}
+.panel-main > .panel-search > form {
+  border: 1px solid #ddd;
+  padding: 20px 10px;
+}
+.list-group-noborder > .list-group-item {
+  border: none;
+}
+/*******************
+栏目块
+*******************/
+.col-wrapper-white {
+  background: #ffffff;
+}
+.col-wrapper-gray {
+  background: #f7f8fa;
+}
+.col-wrapper-green {
+  background: #eef6d1;
+}
+.col-wrapper-bunkerGrey {
+  background: #3b3f42;
+  color: #ffffff;
+}
+.main-title {
+  padding: 0;
+  margin: 20px 0;
+  font-weight: bold;
+}
+.separator {
+  background-color: #e7e7e7;
+  height: 1px;
+  margin: 20px 0 0;
+  padding: 0;
+  position: relative;
+  width: 100%;
+}
+.separator .separator-line {
+  left: 50%;
+  margin-left: -15px;
+  background-color: #709136;
+  height: 3px;
+  position: absolute;
+  top: -1px;
+  width: 30px;
+}
+.separator .separator-line.left {
+  left: 15px;
+}
+.separator .separator-line.right {
+  right: 15px;
+}
+.separator.short {
+  max-width: 370px;
+  margin: auto;
+}
+.img-thumb-border {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  display: inline-block;
+  line-height: 1.42857;
+  padding: 4px;
+  transition: all 0.2s ease-in-out 0s;
+}
+.go-offer-reason {
+  background-position: 0 -1321px;
+  height: 17px;
+  width: 16px;
+}
+/*.go-icons{
+  background-image: url("/Public/Common/images/icon-sprite2.png") no-repeat -9999px -9999px; //预加载loading图片
+  vertical-align: middle;
+}*/
+.go-icons {
+  background-image: url("/Public/Common/images/icon-sprite2.png");
+  background-repeat: no-repeat;
+  display: inline-block;
+  vertical-align: middle;
+}
+/*******************
+响应式布局
+*******************/
+@media screen and (max-width: 992px) {
+  .small-ratio-center {
+    text-align: center;
+  }
+  .top-search {
+    text-align: center;
+  }
+}
+@media screen and (max-width: 767px) {
+  .btn-ratio-block {
+    display: block;
+    width: 100%;
+  }
+}
+@-moz-document url-prefix() {
+  fieldset {
+    display: table-cell;
+  }
+}

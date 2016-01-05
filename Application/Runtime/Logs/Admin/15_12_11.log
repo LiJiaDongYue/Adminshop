@@ -1,0 +1,174 @@
+[ 2015-12-11T09:03:29+08:00 ] 127.0.0.1 /Admin/Public/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002698s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004861s ]
+NOTIC: [2048] Declaration of Admin\Controller\PublicController::error() should be compatible with that of Think\Controller::error() D:\wamp\www\adminshop\Application\Admin\Controller\PublicController.class.php 第 69 行.
+SQL: SHOW COLUMNS FROM `a_member` [ RunTime:0.0409s ]
+SQL: SELECT * FROM `a_member` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0013s ]
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' D:\wamp\www\adminshop\Application\Admin\Model\MemberModel.class.php 第 26 行.
+SQL: SHOW COLUMNS FROM `a_member_data` [ RunTime:0.0352s ]
+SQL: UPDATE `a_member_data` SET `last_login_time`='2015-12-11 09:03:29',`last_login_ip`='127.0.0.1' WHERE `uid` = 1 [ RunTime:0.0019s ]
+NOTIC: [8] Undefined index: user_type D:\wamp\www\adminshop\Application\Admin\Model\MemberModel.class.php 第 40 行.
+NOTIC: [8] Undefined index: 1 D:\wamp\www\adminshop\Application\Admin\Common\function.php 第 25 行.
+
+[ 2015-12-11T09:03:30+08:00 ] 127.0.0.1 /Admin/Index/j/Public/Common/js/lib/contabs.min.js
+ERR: 非法操作:j
+
+[ 2015-12-11T09:03:30+08:00 ] 127.0.0.1 /Admin/Index/index_v1.html?v=4.0
+ERR: 非法操作:index_v1
+
+[ 2015-12-11T09:03:31+08:00 ] 127.0.0.1 /Admin/Index/j/Public/Common/js/lib/contabs.min.js
+ERR: 非法操作:j
+
+[ 2015-12-11T09:04:19+08:00 ] 127.0.0.1 /Admin/Index/j/Public/Common/js/lib/contabs.min.js
+ERR: 非法操作:j
+
+[ 2015-12-11T09:04:19+08:00 ] 127.0.0.1 /Admin/Index/index_v1.html?v=4.0
+ERR: 非法操作:index_v1
+
+[ 2015-12-11T09:04:19+08:00 ] 127.0.0.1 /Admin/Index/j/Public/Common/js/lib/contabs.min.js
+ERR: 非法操作:j
+
+[ 2015-12-11T09:04:36+08:00 ] 127.0.0.1 /Admin/Index/index_v1.html
+ERR: 非法操作:index_v1
+
+[ 2015-12-11T09:05:47+08:00 ] 127.0.0.1 /Admin/Index/j/Public/Common/js/lib/contabs.min.js
+ERR: 非法操作:j
+
+[ 2015-12-11T09:05:47+08:00 ] 127.0.0.1 /Admin/Index/index_v1.html?v=4.0
+ERR: 非法操作:index_v1
+
+[ 2015-12-11T09:05:48+08:00 ] 127.0.0.1 /Admin/Index/j/Public/Common/js/lib/contabs.min.js
+ERR: 非法操作:j
+
+[ 2015-12-11T09:05:53+08:00 ] 127.0.0.1 /Admin/Index/j/Public/Common/js/lib/contabs.min.js
+ERR: 非法操作:j
+
+[ 2015-12-11T09:05:53+08:00 ] 127.0.0.1 /Admin/Index/index_v1.html?v=4.0
+ERR: 非法操作:index_v1
+
+[ 2015-12-11T09:05:58+08:00 ] 127.0.0.1 /Admin/Index/j/Public/Common/js/lib/contabs.min.js
+ERR: 非法操作:j
+
+[ 2015-12-11T09:05:58+08:00 ] 127.0.0.1 /Admin/Index/index_v1.html?v=4.0
+ERR: 非法操作:index_v1
+
+[ 2015-12-11T09:05:59+08:00 ] 127.0.0.1 /Admin/Index/j/Public/Common/js/lib/contabs.min.js
+ERR: 非法操作:j
+
+[ 2015-12-11T09:07:49+08:00 ] 127.0.0.1 /Admin/Index/index_v1.html?v=4.0
+ERR: 非法操作:index_v1
+
+[ 2015-12-11T09:07:49+08:00 ] 127.0.0.1 /Admin/Index/j/Public/Common/js/lib/contabs.min.js
+ERR: 非法操作:j
+
+[ 2015-12-11T09:07:49+08:00 ] 127.0.0.1 /Admin/Index/j/Public/Common/js/lib/contabs.min.js
+ERR: 非法操作:j
+
+[ 2015-12-11T09:08:13+08:00 ] 127.0.0.1 /Admin/Index/index_v1.html?v=4.0
+ERR: 非法操作:index_v1
+
+[ 2015-12-11T09:08:13+08:00 ] 127.0.0.1 /Admin/Index/j/Public/Common/js/lib/contabs.min.js
+ERR: 非法操作:j
+
+[ 2015-12-11T09:08:14+08:00 ] 127.0.0.1 /Admin/Index/j/Public/Common/js/lib/contabs.min.js
+ERR: 非法操作:j
+
+[ 2015-12-11T09:08:22+08:00 ] 127.0.0.1 /Admin/Index/j/Public/Common/js/lib/contabs.min.js
+ERR: 非法操作:j
+
+[ 2015-12-11T09:08:22+08:00 ] 127.0.0.1 /Admin/Index/index_v1.html?v=4.0
+ERR: 非法操作:index_v1
+
+[ 2015-12-11T09:08:23+08:00 ] 127.0.0.1 /Admin/Index/j/Public/Common/js/lib/contabs.min.js
+ERR: 非法操作:j
+
+[ 2015-12-11T09:10:06+08:00 ] 127.0.0.1 /Admin/Index/index_v1.html?v=4.0
+ERR: 非法操作:index_v1
+
+[ 2015-12-11T09:10:06+08:00 ] 127.0.0.1 /Admin/Index/j/Public/Common/js/lib/contabs.min.js
+ERR: 非法操作:j
+
+[ 2015-12-11T09:10:07+08:00 ] 127.0.0.1 /Admin/Index/j/Public/Common/js/lib/contabs.min.js
+ERR: 非法操作:j
+
+[ 2015-12-11T09:10:53+08:00 ] 127.0.0.1 /Admin/Index/j/Public/Common/js/lib/contabs.min.js
+ERR: 非法操作:j
+
+[ 2015-12-11T09:10:53+08:00 ] 127.0.0.1 /Admin/Index/index_v1.html?v=4.0
+ERR: 非法操作:index_v1
+
+[ 2015-12-11T09:10:53+08:00 ] 127.0.0.1 /Admin/Index/j/Public/Common/js/lib/contabs.min.js
+ERR: 非法操作:j
+
+[ 2015-12-11T09:11:32+08:00 ] 127.0.0.1 /Admin/Index/j/Public/Common/js/lib/contabs.min.js
+ERR: 非法操作:j
+
+[ 2015-12-11T09:11:32+08:00 ] 127.0.0.1 /Admin/Index/index_v1.html?v=4.0
+ERR: 非法操作:index_v1
+
+[ 2015-12-11T09:11:32+08:00 ] 127.0.0.1 /Admin/Index/j/Public/Common/js/lib/contabs.min.js
+ERR: 非法操作:j
+
+[ 2015-12-11T09:16:23+08:00 ] 127.0.0.1 /Admin/Index/index_v1.html
+ERR: 非法操作:index_v1
+
+[ 2015-12-11T09:16:26+08:00 ] 127.0.0.1 /Admin/Index/j/Public/Common/js/lib/contabs.min.js
+ERR: 非法操作:j
+
+[ 2015-12-11T09:16:26+08:00 ] 127.0.0.1 /Admin/Index/index_v1.html?v=4.0
+ERR: 非法操作:index_v1
+
+[ 2015-12-11T11:04:27+08:00 ] 127.0.0.1 /Admin/Public/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005405s ]
+NOTIC: [2048] Declaration of Admin\Controller\PublicController::error() should be compatible with that of Think\Controller::error() D:\wamp\www\adminshop\Application\Admin\Controller\PublicController.class.php 第 69 行.
+SQL: SHOW COLUMNS FROM `a_member` [ RunTime:0.0388s ]
+SQL: SELECT * FROM `a_member` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0014s ]
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' D:\wamp\www\adminshop\Application\Admin\Model\MemberModel.class.php 第 26 行.
+SQL: SHOW COLUMNS FROM `a_member_data` [ RunTime:0.0254s ]
+SQL: UPDATE `a_member_data` SET `last_login_time`='2015-12-11 11:04:27',`last_login_ip`='127.0.0.1' WHERE `uid` = 1 [ RunTime:0.0186s ]
+NOTIC: [8] Undefined index: user_type D:\wamp\www\adminshop\Application\Admin\Model\MemberModel.class.php 第 40 行.
+NOTIC: [8] Undefined index: 1 D:\wamp\www\adminshop\Application\Admin\Common\function.php 第 25 行.
+
+[ 2015-12-11T11:04:28+08:00 ] 127.0.0.1 /Admin/Index/index_v1.html?v=4.0
+ERR: 非法操作:index_v1
+
+[ 2015-12-11T11:04:28+08:00 ] 127.0.0.1 /Admin/Index/j/Public/Common/js/lib/contabs.min.js
+ERR: 非法操作:j
+
+[ 2015-12-11T11:05:11+08:00 ] 127.0.0.1 /Admin/Public/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002862s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005419s ]
+NOTIC: [2048] Declaration of Admin\Controller\PublicController::error() should be compatible with that of Think\Controller::error() D:\wamp\www\adminshop\Application\Admin\Controller\PublicController.class.php 第 69 行.
+SQL: SHOW COLUMNS FROM `a_member` [ RunTime:0.0145s ]
+SQL: SELECT * FROM `a_member` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' D:\wamp\www\adminshop\Application\Admin\Model\MemberModel.class.php 第 26 行.
+SQL: SHOW COLUMNS FROM `a_member_data` [ RunTime:0.0131s ]
+SQL: UPDATE `a_member_data` SET `last_login_time`='2015-12-11 11:05:11',`last_login_ip`='127.0.0.1' WHERE `uid` = 1 [ RunTime:0.0008s ]
+NOTIC: [8] Undefined index: user_type D:\wamp\www\adminshop\Application\Admin\Model\MemberModel.class.php 第 40 行.
+NOTIC: [8] Undefined index: 1 D:\wamp\www\adminshop\Application\Admin\Common\function.php 第 25 行.
+
+[ 2015-12-11T11:05:12+08:00 ] 127.0.0.1 /Admin/Index/index_v1.html?v=4.0
+ERR: 非法操作:index_v1
+
+[ 2015-12-11T11:05:12+08:00 ] 127.0.0.1 /Admin/Index/j/Public/Common/js/lib/contabs.min.js
+ERR: 非法操作:j
+
+[ 2015-12-11T11:05:13+08:00 ] 127.0.0.1 /Admin/Index/j/Public/Common/js/lib/contabs.min.js
+ERR: 非法操作:j
+
+[ 2015-12-11T11:06:22+08:00 ] 127.0.0.1 /Admin/Index/rt
+ERR: 非法操作:rt
+
+[ 2015-12-11T11:06:31+08:00 ] 127.0.0.1 /Admin/Index/j/Public/Common/js/lib/contabs.min.js
+ERR: 非法操作:j
+
+[ 2015-12-11T11:06:31+08:00 ] 127.0.0.1 /Admin/Index/index_v1.html?v=4.0
+ERR: 非法操作:index_v1
+
+[ 2015-12-11T11:06:32+08:00 ] 127.0.0.1 /Admin/Index/j/Public/Common/js/lib/contabs.min.js
+ERR: 非法操作:j
+

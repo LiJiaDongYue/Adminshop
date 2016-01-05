@@ -1,0 +1,244 @@
+.boilyun-goods-choice {
+  margin-top: 20px;
+}
+.boilyun-goods-choice .title {
+  height: 50px;
+  width: 100%;
+  background: #f1f1f1;
+  box-sizing: border-box;
+  padding: 0 16px;
+}
+.boilyun-goods-choice .title span,
+.boilyun-goods-choice .title strong {
+  height: 50px;
+  line-height: 50px;
+}
+.boilyun-goods-choice > ul {
+  width: auto;
+  padding: 0;
+  margin: 0;
+}
+.boilyun-goods-choice > ul > li {
+  padding: 15px 0;
+  width: 100%;
+  list-style: none;
+  box-sizing: border-box;
+  border-bottom: 1px solid #ddd;
+}
+.boilyun-goods-choice > ul > li:after {
+  clear: both;
+  display: block;
+  content: "";
+}
+.boilyun-goods-choice > ul > li span {
+  color: #2271b2;
+  line-height: 20px;
+}
+.boilyun-goods-choice > ul > li > .left {
+  box-sizing: border-box;
+  float: left;
+  width: 10%;
+  height: auto;
+  font-size: 12px;
+}
+.boilyun-goods-choice > ul > li > .left > span {
+  display: block;
+  margin: 5px 0 0 16px;
+}
+.boilyun-goods-choice > ul > li > .right {
+  box-sizing: border-box;
+  float: left;
+  width: 85%;
+  font-size: 12px;
+}
+.boilyun-goods-choice > ul > li > .right span {
+  display: inline-block;
+  margin: 5px;
+}
+.boilyun-goods-choice > ul > li > .right a {
+  color: #2271b2;
+}
+.boilyun-goods-choice > ul > li > .right a:hover {
+  color: #E39B11;
+}
+.boilyun-goods-choice > ul > li > .right .chioce-scope {
+  float: right;
+  margin-right: 300px;
+  vertical-align: middle;
+  line-height: 30px;
+}
+.boilyun-goods-choice > ul > li > .right .chioce-scope input {
+  width: 45px;
+  height: 15px;
+}
+.boilyun-goods-choice > ul > li > .right .chioce-scope i {
+  font-size: 10px;
+  color: #ddd;
+}
+.boilyun-goods-choice > ul > li > .right .chioce-scope a {
+  width: 48px;
+  height: 20px;
+  display: inline-block;
+  border: 1px solid #ddd;
+  color: #888;
+  text-align: center;
+  line-height: 20px;
+}
+.boilyun-goods-choice > ul > li > .right .chioce-scope a:hover {
+  background: #ddd;
+}
+.boilyun-goods-choice .content {
+  width: 100%;
+  height: auto;
+  box-sizing: border-box;
+}
+.boilyun-goods-choice .content .goods-order {
+  width: 80%;
+  height: auto;
+  box-sizing: border-box;
+}
+.boilyun-goods-choice .content .goods-order .head-title {
+  height: 50px;
+  width: 100%;
+  background: #f1f1f1;
+  padding: 13px 15px;
+  box-sizing: border-box;
+}
+.boilyun-goods-choice .content .goods-order .head-title > a {
+  background: #fff;
+  font-size: 12px;
+  color: #888;
+}
+.boilyun-goods-choice .content .goods-order .head-title > a:hover {
+  background: #E39B11;
+  color: #fff;
+}
+.boilyun-goods-choice .content .goods-order .head-title .active {
+  background: #205893;
+  color: #fff;
+}
+.boilyun-goods-choice .content .goods-order .head-title .active:hover {
+  background: #205893;
+  color: #fff;
+}
+.boilyun-goods-choice .content .goods-order > ul {
+  height: 350px;
+  width: auto;
+  margin: 0;
+  padding: 0;
+}
+.boilyun-goods-choice .content .goods-order > ul > li {
+  vertical-align: middle;
+  list-style: none;
+  display: inline-block;
+  text-align: center;
+  border-right: 1px solid #e6e6e6;
+  padding: 0 20px;
+  margin-top: 20px;
+  position: relative;
+  /* &:last-child{
+            border-right:none;
+          }*/
+}
+.boilyun-goods-choice .content .goods-order > ul > li img {
+  padding: 20px 0;
+}
+.boilyun-goods-choice .content .goods-order > ul > li .hot-sale {
+  position: absolute;
+  background: url("../images/hot-sale.png");
+  color: #fff;
+  top: 5px;
+  right: 30px;
+  width: 26px;
+  height: 48px;
+}
+.boilyun-goods-choice .content .goods-order > ul > li .font-red {
+  color: red;
+}
+.boilyun-goods-choice .content .goods-hot {
+  width: 18.7%;
+  height: auto;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+}
+.boilyun-goods-choice .content .goods-hot .hot-erea {
+  box-sizing: border-box;
+  height: 38px;
+  width: 100%;
+  background: #ececec;
+  padding-left: 15px;
+}
+.boilyun-goods-choice .content .goods-hot .hot-erea span {
+  height: 38px;
+  line-height: 36px;
+}
+.boilyun-goods-choice .content .goods-hot .hot-detail {
+  height: auto;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+.boilyun-goods-choice .content .goods-hot .hot-detail > li {
+  vertical-align: middle;
+  list-style: none;
+  display: inline-block;
+  padding: 0 20px;
+  margin-top: 20px;
+}
+.boilyun-goods-choice .content .page {
+  height: 58px;
+  width: 100%;
+  background: #f1f1f1;
+  box-sizing: border-box;
+  position: relative;
+}
+.boilyun-goods-choice .content .page span {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+}
+.boilyun-goods-choice .content .page ul {
+  float: left;
+  height: auto;
+  padding: 0;
+  position: absolute;
+  top: 50%;
+  margin-top: -15px;
+}
+.boilyun-goods-choice .content .page ul .active {
+  background: #fff;
+}
+.boilyun-goods-choice .content .page ul .active a {
+  color: #888;
+}
+.boilyun-goods-choice .content .page ul .active a:hover {
+  color: #888 !important;
+  background: #fff;
+}
+.boilyun-goods-choice .content .page ul > li {
+  box-sizing: border-box;
+  list-style: none;
+  display: inline-block;
+  text-align: center;
+  height: 30px;
+  width: 30px;
+}
+.boilyun-goods-choice .content .page ul > li a {
+  height: 30px;
+  width: 30px;
+  display: block;
+  line-height: 30px;
+  box-sizing: border-box;
+}
+.boilyun-goods-choice .content .page ul > li a i {
+  height: 15px;
+  width: 15px;
+  line-height: 15px;
+}
+.boilyun-goods-choice .content .page ul > li a:hover {
+  color: #fff !important;
+  background: #E39B11;
+}
+.boilyun-goods-choice .content .page ul > li a:hover > i {
+  color: #fff !important;
+}

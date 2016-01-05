@@ -1,0 +1,49 @@
+.wizard .steps {
+  background-color: #fff;
+  background-image: none;
+  border: 0 none;
+  box-shadow: none;
+  filter: none;
+  margin-bottom: 15px;
+  padding: 10px 0;
+}
+.wizard .steps > li > a.step {
+  background-color: #fff;
+  background-image: none;
+  border: 0 none;
+  box-shadow: none;
+  filter: none;
+}
+.wizard .steps > li.active > a.step .number {
+  background-color: #45b6af;
+  color: #fff;
+}
+.wizard .steps > li > a.step > .number {
+  background-color: #eee;
+  border-radius: 50% !important;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 300;
+  height: 45px;
+  margin-right: 10px;
+  padding: 11px 15px 13px;
+  text-align: center !important;
+  width: 45px;
+}
+.wizard .steps > li.active > a.step .desc {
+  color: #333;
+}
+.wizard .steps > li > a.step > .desc {
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 300;
+}
+.progress {
+  background-image: none;
+  border: 0 none;
+  box-shadow: none;
+  filter: none;
+}
+.progress > .progress-bar-success {
+  background-color: #45b6af;
+}

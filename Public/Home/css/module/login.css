@@ -1,0 +1,74 @@
+.boilyun-login-header {
+  height: 83px;
+  width: 100%;
+  background: #144476;
+  box-sizing: border-box;
+}
+.boilyun-login-header .header {
+  height: 83px;
+}
+.boilyun-login-header .header img {
+  margin: 0 auto;
+  padding-right: 20px;
+  border-right: 2px solid #fff;
+}
+.boilyun-login-header .header span {
+  color: #fff;
+  vertical-align: middle;
+  line-height: 83px;
+}
+.boilyun-login-content .content {
+  width: 900px;
+  height: auto;
+  padding: 35px 0;
+}
+.boilyun-login-content .content .form-group .input-group {
+  display: inline-block;
+  width: 100%;
+  margin-top: 15px;
+}
+.boilyun-login-content .content .form-group .input-group .input-group-addon {
+  background-color: #eee;
+  border: 1px solid #eee;
+  color: #555;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 22px;
+  padding: 6px 12px;
+  text-align: center;
+  width: 22px;
+  float: left;
+  height: 22px;
+  border-right: none;
+}
+.boilyun-login-content .content .form-group .input-group .input-group-addon i {
+  height: 20px;
+  width: 20px;
+  display: block;
+  text-align: center;
+  line-height: 20px;
+}
+.boilyun-login-content .content .form-group .input-group .form-control {
+  float: left;
+  margin-bottom: 0;
+  width: 327px;
+  z-index: 2;
+  height: 22px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  color: #555;
+  display: inline-block;
+  font-size: 14px;
+  padding: 6px 12px;
+}
+.boilyun-login-content .content .confirm {
+  height: 34px;
+  width: 100%;
+  background: #E74C3C;
+  text-align: center;
+  display: block;
+}
+.boilyun-login-content .content .confirm span {
+  color: #fff;
+  line-height: 34px;
+}

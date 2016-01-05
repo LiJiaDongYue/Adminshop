@@ -1,0 +1,138 @@
+.boilyun-plan-item {
+  width: 100%;
+  height: auto;
+  .plan {
+    width: 1240px;
+    margin-top: 20px;
+    table {
+      margin-bottom: 20px;
+      max-width: 100%;
+      width: 100%;
+      border-collapse: collapse;
+      border-spacing: 0;
+      th, td {
+        text-align: center;
+        border: 1px solid #ddd;
+        padding: 5px 0 5px 0;
+        vertical-align: middle;
+      }
+      th {
+        font-size: 16px;
+        font-weight: 500;
+        color: #888;
+      }
+      .scan-detail {
+        display: inline-block;
+        height: 40px;
+        width: 115px;
+        background: #34495e;
+        line-height: 40px;
+        color: #fff;
+      }
+      .text-left {
+        text-align: left;
+        box-sizing: border-box;
+        padding-left: 20px;
+      }
+    }
+    .item-bottom {
+      width: 100%;
+      padding-left: 500px;
+      box-sizing: border-box;
+      .commit {
+        width: 125px;
+        height: 48px;
+        background: #e74c3c;
+        display: inline-block;
+        text-align: center;
+        line-height: 48px;
+        color: #fff;
+      }
+      .print {
+        background: #34495e;
+      }
+    }
+    .continue span {
+      display: block;
+      margin-bottom: 150px;
+    }
+  }
+  .ui-stepBar-wrap {
+    position: relative;
+    width: 100%;
+    height: 130px;
+    background: #ebeef3;
+    overflow: hidden;
+    display: none;
+    z-index: 100;
+    .ui-stepBar {
+      position: relative;
+      width: 90%;
+      height: 5px;
+      background: #cccccc;
+      top: 50px;
+      left: 5%;
+      z-index: 101;
+      .ui-stepProcess {
+        position: relative;
+        width: 0;
+        height: 5px;
+        background: #516784;
+        top: 0;
+        left: 0;
+        z-index: 102;
+      }
+    }
+    .ui-stepInfo-wrap {
+      width: 90%;
+      margin: 0 auto;
+      height: 100%;
+      .ui-stepInfo {
+        position: relative;
+        float: left;
+        padding-top: 36px;
+        text-align: center;
+        .ui-stepSequence {
+          position: relative;
+          padding: 4px 8px;
+          border-radius: 50%;
+          z-index: 103;
+        }
+        .ui-stepName {
+          position: relative;
+          line-height: 50px;
+          z-index: 103;
+        }
+        .judge-stepSequence-pre-change {
+          cursor: pointer;
+          &:hover{
+            box-shadow: 0 0 3px 1px #516784;
+          }
+        }
+        .judge-stepSequence-hind-change {
+          cursor: pointer;
+          &:hover{
+            box-shadow: 0 0 3px 1px #cccccc;
+          }
+        }
+      }
+    }
+  }
+  .judge-stepSequence-pre {
+    background: #516784;
+    color: #ffffff;
+  }
+  .judge-stepSequence-hind {
+    background: #cccccc;
+    color: #000000;
+  }
+  .author {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    margin: 40px auto;
+    color: #1569ec;
+    text-shadow: 1px 1px 0 #e7e7e7, 0 1px 7px #fff;
+  }
+}

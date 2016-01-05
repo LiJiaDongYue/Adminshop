@@ -1,0 +1,18 @@
+[ 2015-12-02T15:36:34+08:00 ] 127.0.0.1 /Public/MODULE_NAME/theme/green/css/login.min.css
+ERR: 非法操作:MODULE_NAME
+
+[ 2015-12-02T15:41:45+08:00 ] 127.0.0.1 /Public/__MODULE_NAME__/theme/green/css/login.min.css
+ERR: 非法操作:__MODULE_NAME__
+
+[ 2015-12-02T15:47:17+08:00 ] 127.0.0.1 /Public/MODULE_NAME/theme/green/css/login.min.css
+ERR: 非法操作:MODULE_NAME
+
+[ 2015-12-02T15:57:46+08:00 ] 127.0.0.1 /Public/Common/css/lib/jquery.min.js?v=2.1.4
+ERR: 非法操作:Common
+
+[ 2015-12-02T15:57:46+08:00 ] 127.0.0.1 /Public/Common/css/lib/bootstrap.min.js?v=3.3.5
+ERR: 非法操作:Common
+
+[ 2015-12-02T15:57:47+08:00 ] 127.0.0.1 /Public/Common/css/lib/bootstrap.min.js?v=3.3.5
+ERR: 非法操作:Common
+

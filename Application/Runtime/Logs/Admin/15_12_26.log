@@ -1,0 +1,53 @@
+[ 2015-12-26T14:44:28+08:00 ] 127.0.0.1 /Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002415s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003544s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004045s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003429s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004040s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002962s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003387s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000240s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000689s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035476s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.006806s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000105s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.040889s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002964s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003389s ]
+
+[ 2015-12-26T14:44:29+08:00 ] 127.0.0.1 /Admin/Index/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001745s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001946s ]
+NOTIC: [8] Undefined variable: old_logo_url D:\wamp\www\adminshop\Application\Admin\Controller\IndexController.class.php 第 58 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001739s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002074s ]
+
+[ 2015-12-26T14:44:38+08:00 ] 127.0.0.1 /Admin/Index/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003139s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003670s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp\www\adminshop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Use of undefined constant ROOT_PATH - assumed 'ROOT_PATH' D:\wamp\www\adminshop\Application\Admin\Common\function.php 第 243 行.
+NOTIC: [8] Use of undefined constant ROOT_PATH - assumed 'ROOT_PATH' D:\wamp\www\adminshop\Application\Admin\Controller\IndexController.class.php 第 53 行.
+NOTIC: [2] unlink(ROOT_PATHPublic/Uploads/Picture/1/2015-12/567e3756d9984.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory D:\wamp\www\adminshop\Application\Admin\Controller\IndexController.class.php 第 53 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003750s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004574s ]
+
