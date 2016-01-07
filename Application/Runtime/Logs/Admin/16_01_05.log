@@ -1,0 +1,40 @@
+[ 2016-01-05T17:51:55+08:00 ] 127.0.0.1 /Admin/Public/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001878s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005746s ]
+NOTIC: [2048] Declaration of Admin\Controller\PublicController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) D:\xampp\htdocs\github\Adminshop\Application\Admin\Controller\PublicController.class.php 第 68 行.
+SQL: SHOW COLUMNS FROM `a_member` [ RunTime:0.0118s ]
+SQL: SELECT * FROM `a_member` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0012s ]
+
+[ 2016-01-05T17:52:01+08:00 ] 127.0.0.1 /Admin/Public/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001805s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003890s ]
+NOTIC: [2048] Declaration of Admin\Controller\PublicController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) D:\xampp\htdocs\github\Adminshop\Application\Admin\Controller\PublicController.class.php 第 68 行.
+SQL: SHOW COLUMNS FROM `a_member` [ RunTime:0.0256s ]
+SQL: SELECT * FROM `a_member` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2016-01-05T17:52:02+08:00 ] 127.0.0.1 /Admin/Public/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001915s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004229s ]
+NOTIC: [2048] Declaration of Admin\Controller\PublicController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) D:\xampp\htdocs\github\Adminshop\Application\Admin\Controller\PublicController.class.php 第 68 行.
+SQL: SHOW COLUMNS FROM `a_member` [ RunTime:0.0178s ]
+SQL: SELECT * FROM `a_member` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-01-05T17:52:16+08:00 ] 127.0.0.1 /Admin/Public/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001930s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004244s ]
+NOTIC: [2048] Declaration of Admin\Controller\PublicController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) D:\xampp\htdocs\github\Adminshop\Application\Admin\Controller\PublicController.class.php 第 68 行.
+SQL: SHOW COLUMNS FROM `a_member` [ RunTime:0.1768s ]
+SQL: SELECT * FROM `a_member` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0009s ]
+NOTIC: [8] Use of undefined constant uid - assumed 'uid' D:\xampp\htdocs\github\Adminshop\Application\Admin\Model\MemberModel.class.php 第 26 行.
+SQL: SHOW COLUMNS FROM `a_member_data` [ RunTime:0.0105s ]
+SQL: UPDATE `a_member_data` SET `last_login_time`='2016-01-05 17:52:16',`last_login_ip`='127.0.0.1' WHERE `uid` = 1 [ RunTime:0.0705s ]
+NOTIC: [8] Undefined index: user_type D:\xampp\htdocs\github\Adminshop\Application\Admin\Model\MemberModel.class.php 第 40 行.
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\github\Adminshop\Application\Admin\Common\function.php 第 25 行.
+
+[ 2016-01-05T17:52:17+08:00 ] 127.0.0.1 /Admin/Index/index_v1.html?v=4.0
+ERR: 非法操作:index_v1
+

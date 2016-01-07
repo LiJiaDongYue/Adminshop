@@ -1,0 +1,375 @@
+[ 2016-01-07T11:24:56+08:00 ] 127.0.0.1 /index_v1.html?v=4.0
+ERR: 无法加载控制器:Index_v1
+
+[ 2016-01-07T11:24:56+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T11:24:57+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T11:35:12+08:00 ] 127.0.0.1 /index_v1.html?v=4.0
+ERR: 无法加载控制器:Index_v1
+
+[ 2016-01-07T11:35:13+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T11:35:13+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T11:35:43+08:00 ] 127.0.0.1 /index_v1.html?v=4.0
+ERR: 无法加载控制器:Index_v1
+
+[ 2016-01-07T11:35:44+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T11:35:44+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T11:36:01+08:00 ] 127.0.0.1 /index_v1.html?v=4.0
+ERR: 无法加载控制器:Index_v1
+
+[ 2016-01-07T11:36:01+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T11:36:01+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T11:50:20+08:00 ] 127.0.0.1 /index_v1.html?v=4.0
+ERR: 无法加载控制器:Index_v1
+
+[ 2016-01-07T11:50:20+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T11:50:20+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T11:57:06+08:00 ] 127.0.0.1 /index_v1.html?v=4.0
+ERR: 无法加载控制器:Index_v1
+
+[ 2016-01-07T11:57:07+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T11:57:07+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T11:58:42+08:00 ] 127.0.0.1 /index_v1.html?v=4.0
+ERR: 无法加载控制器:Index_v1
+
+[ 2016-01-07T11:58:42+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T11:58:42+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T12:00:34+08:00 ] 127.0.0.1 /index_v1.html?v=4.0
+ERR: 无法加载控制器:Index_v1
+
+[ 2016-01-07T12:00:35+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T12:00:35+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T12:01:56+08:00 ] 127.0.0.1 /login.html
+ERR: 无法加载控制器:Login
+
+[ 2016-01-07T12:02:00+08:00 ] 127.0.0.1 /index_v1.html?v=4.0
+ERR: 无法加载控制器:Index_v1
+
+[ 2016-01-07T12:02:00+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T12:02:00+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T12:03:28+08:00 ] 127.0.0.1 /index_v1.html?v=4.0
+ERR: 无法加载控制器:Index_v1
+
+[ 2016-01-07T12:03:28+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T12:03:28+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T12:04:42+08:00 ] 127.0.0.1 /index_v1.html?v=4.0
+ERR: 无法加载控制器:Index_v1
+
+[ 2016-01-07T12:04:43+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T12:04:43+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T12:08:51+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T12:08:51+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T12:20:39+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T12:20:39+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T12:20:44+08:00 ] 127.0.0.1 /Public/login.html
+ERR: 非法操作:login
+
+[ 2016-01-07T12:20:57+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T12:20:57+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T12:21:12+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T12:21:12+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T12:21:24+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T12:21:24+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T12:28:54+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T12:28:54+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T12:47:22+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T12:47:22+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T13:06:16+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T13:06:16+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T13:41:07+08:00 ] 127.0.0.1 /index_v1.html?v=4.0
+ERR: 无法加载控制器:Index_v1
+
+[ 2016-01-07T13:41:07+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T13:41:07+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T13:41:45+08:00 ] 127.0.0.1 /index_v1.html?v=4.0
+ERR: 无法加载控制器:Index_v1
+
+[ 2016-01-07T13:41:45+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T13:41:45+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T13:42:15+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T13:42:15+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T13:43:25+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T13:43:25+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T13:50:39+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T13:50:39+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T13:51:15+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T13:51:15+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T13:51:34+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T13:51:34+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T13:51:38+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T13:51:38+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T13:51:45+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T13:51:45+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T13:53:03+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T13:53:03+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T13:53:18+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T13:53:18+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T13:53:40+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T13:53:40+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:03:16+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:03:16+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:05:22+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:05:22+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:05:45+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:05:45+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:07:09+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:07:09+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:07:28+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:07:28+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:27:08+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:27:08+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:30:36+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:30:36+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:32:30+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:32:30+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:34:15+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:34:15+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:34:27+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:34:28+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:35:02+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:35:02+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:36:09+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:36:09+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:36:39+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:36:39+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:37:21+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:37:21+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:39:05+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:39:05+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:39:08+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:39:08+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:39:22+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:39:22+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:40:08+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:40:08+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:40:11+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:40:11+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:40:52+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:40:52+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:41:22+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:41:22+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:41:47+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:41:47+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:42:05+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:42:05+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:42:10+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/skin/layer.css
+ERR: 非法操作:Common
+
+[ 2016-01-07T14:42:10+08:00 ] 127.0.0.1 /Public/Common/js/lib/plugins/layer/extend/layer.ext.js
+ERR: 非法操作:Common
+

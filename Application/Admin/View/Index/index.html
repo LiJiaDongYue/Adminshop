@@ -2,20 +2,25 @@
 <html>
 <head>
 	<meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<title>通用后台首页</title>
 	<link rel="shortcut icon" href="favicon.ico"> 
     <link href="__COMMON__/css/lib/bootstrap.min.css?v=3.3.5" rel="stylesheet">
     <link href="__COMMON__/css/lib/font-awesome.min.css?v=4.4.0" rel="stylesheet">
     <link href="__COMMON__/css/lib/animate.min.css" rel="stylesheet">
     <link href="__COMMON__/css/lib/style.min.css?v=4.0.0" rel="stylesheet">
-</head>
- 	
+</head>	
 <body class="fixed-sidebar full-height-layout gray-bg" style="overflow:hidden">
-<div id="wrapper">
-	<include file="Common/header"/>
-	<include file="Common/left"/>
-</div>
-<include file="Common/footer"/>
+    <div id="wrapper">
+        <!--加载左边公共菜单栏，利用权限管理-->
+        <include file="Common/left"/>
+        <div id="page-wrapper" class="gray-bg dashbard-1">
+            <!--加载右边菜单栏-->
+        	<include file="Common/header"/>
+            <include file="Index/right"/>
+        </div>
+        <include file="Common/footer"/>
+    </div>
  	<script src="__COMMON__/js/lib/jquery.min.js?v=2.1.4"></script>
     <script src="__COMMON__/js/lib/bootstrap.min.js?v=3.3.5"></script>
     <script src="__COMMON__/js/lib/plugins/metisMenu/jquery.metisMenu.js"></script>
